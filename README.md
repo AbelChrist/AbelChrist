@@ -1,4 +1,9 @@
-### Hi there 👋
+### 👋 Hello there, I'm Abel Christian!
+![Profile views](https://gpvc.arturio.dev/AbelChrist)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbelChrist&show_icons=true&hide_border=true" alt="ACEZ's github stats" />
+
+
 
 <!--
 **AbelChrist/AbelChrist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
